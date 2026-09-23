@@ -1,0 +1,7 @@
+build/
+lib/
+*.class
+.DS_Store
+.vscode/
+.env
+.idea/
